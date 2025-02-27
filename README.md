@@ -46,6 +46,3 @@ Um Pomodoro Timer simples desenvolvido com React, TypeScript e Vite. A App ajuda
 - Defina a duração do Pomodoro e das pausas.
 - Clique no botão "Iniciar" para começar a contagem.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
