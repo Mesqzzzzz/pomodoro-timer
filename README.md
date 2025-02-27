@@ -1,48 +1,49 @@
 # Pomodoro Timer
 
-Um Pomodoro Timer simples desenvolvido com React, TypeScript e Vite. A App ajuda a aumentar a produtividade através da técnica Pomodoro, que consiste em trabalhar por um período definido e, em seguida, fazer uma pausa.
+A simple Pomodoro Timer developed with React, TypeScript, and Vite. The application helps increase productivity through the Pomodoro technique, which involves working for a set period and then taking a break.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 
-## Funcionalidades
+## Features
 
-- Iniciar e parar um temporizador
-- Definir duração do Pomodoro e das pausas
-- Notificações sonoras ao final de cada sessão
-- Interface responsiva
+- Start and stop a timer
+- Set Pomodoro and break durations
+- Sound notifications at the end of each session
+- Responsive interface
 
-## Instalação
+## Installation
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/mesqzzzzz/pomodoro-timer.git
    ```
 
-2. Vá até o diretório do projeto:
+2. Navigate to the project directory:
 
    ```bash
    cd pomodoro-timer
    ```
 
-3. Instale as dependências:
+3. Install the dependencies:
 
    ```bash
    npm install
    ```
 
-4. Inicie o servidor de desenvolvimento:
+4. Start the development server:
 
    ```bash
    npm run dev
    ```
+   
+## How to Use
 
-## Como Usar
+- Set the Pomodoro and break durations.
+- Click the "Start" button to begin the countdown.
 
-- Defina a duração do Pomodoro e das pausas.
-- Clique no botão "Iniciar" para começar a contagem.
 
